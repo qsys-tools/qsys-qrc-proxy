@@ -1,6 +1,6 @@
 {
 	"name": "qsys-qrc-proxy",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "A Websocket proxy of the QSYS QRC protocol",
 	"license": "MIT",
 	"repository": "jamestalmage/qsys-qrc-proxy",
