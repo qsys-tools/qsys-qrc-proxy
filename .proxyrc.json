@@ -1,0 +1,9 @@
+{
+	"/qrc": {
+		"target": "http://localhost:8083/",
+		"ws": true,
+		"pathRewrite": {
+			"^/qrc": ""
+		}
+	}
+}

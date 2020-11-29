@@ -1,0 +1,18 @@
+{
+	"extends": "@sindresorhus/tsconfig",
+	"files": ["index.ts", "codec.ts"],
+	"compilerOptions": {
+		"outDir": ".",
+		"target": "es2019",
+		"esModuleInterop": true,
+		"lib": [
+			"es2019"
+		],
+		"typeRoots": [ "./@types", "./node_modules/@types"],
+		"baseUrl": "./",
+		"paths": {
+			"*": ["*", "./@types/*"]
+		},
+		"preserveSymlinks": true
+	}
+}
