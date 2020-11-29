@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "A Websocket proxy of the QSYS QRC protocol",
 	"license": "MIT",
-	"repository": "jamestalmage/qsys-qrc-proxy",
+	"repository": "qsys-tools/qsys-qrc-proxy",
 	"author": {
 		"name": "James Talmage",
 		"email": "james@talmage.io",
