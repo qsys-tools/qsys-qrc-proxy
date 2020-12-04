@@ -5,3 +5,4 @@ yarn.lock
 .cache
 *.d.ts
 *.js
+!cli.js
